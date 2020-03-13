@@ -1,0 +1,27 @@
+acao	pessoa1	prox_taxa	val_taxa	rodada	jogo
+nova taxa	EmpMaq	1	15.0	1	4
+nova taxa	CD1	1	5.0	1	4
+nova taxa	CD1	3	35.0%	1	4
+nova taxa	EmpMaq	2	15.0%	2	4
+nova taxa	EmpMaq	3	35.0%	2	4
+nova taxa	EmpSem	3	25.0%	3	4
+nova taxa	EmpSem	2	10.0%	4	4
+nova taxa	EmpSem	3	35.0%	4	4
+nova taxa	CD1	3	30.0%	4	4
+nova taxa	CD2	1	15.0	1	3
+nova taxa	CD2	3	25.0%	1	3
+nova taxa	AT1	1	5.0	2	3
+nova taxa	AT1	3	35.0%	2	3
+nova taxa	CD2	1	5.0	2	3
+nova taxa	CD2	2	15.0%	2	3
+nova taxa	AT1	2	5.0%	3	3
+nova taxa	AT1	3	25.0%	3	3
+nova taxa	CD2	1	15.0	3	3
+nova taxa	CD2	2	5.0%	3	3
+nova taxa	AT1	3	35.0%	4	3
+nova taxa	CD2	1	15.0	4	3
+nova taxa	CD2	2	15.0%	4	3
+nova taxa	CD2	3	25.0%	4	3
+nova taxa	AT2	1	5.0	1	2
+nova taxa	AT2	3	35.0%	1	2
+nova taxa	EmpAgr	3	35.0%	3	2
