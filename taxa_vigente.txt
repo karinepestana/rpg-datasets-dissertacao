@@ -65,3 +65,15 @@ taxa	Atlantis	prefeito AT2	3	35%	2	2
 taxa	Cidadela	prefeito EmpAgr	1	10	2	2
 taxa	Cidadela	prefeito EmpAgr	2	10%	2	2
 taxa	Cidadela	prefeito EmpAgr	3	35%	2	2
+taxa	Atlantis	prefeito AT2	1	5	2	2
+taxa	Atlantis	prefeito AT2	2	10%	2	2
+taxa	Atlantis	prefeito AT2	3	35%	2	2
+taxa	Cidadela	prefeito EmpAgr	1	10	2	2
+taxa	Cidadela	prefeito EmpAgr	2	10%	2	2
+taxa	Cidadela	prefeito EmpAgr	3	35%	2	2
+taxa	Atlantis	prefeito AT2	1	5	3	2
+taxa	Atlantis	prefeito AT2	2	10%	3	2
+taxa	Atlantis	prefeito AT2	3	35%	3	2
+taxa	Cidadela	prefeito EmpAgr	1	10	3	2
+taxa	Cidadela	prefeito EmpAgr	2	10%	3	2
+taxa	Cidadela	prefeito EmpAgr	3	35%	3	2
