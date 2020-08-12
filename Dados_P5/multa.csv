@@ -1,0 +1,9 @@
+acao,pessoa1,pessoa2,valor3,rodada,jogo
+multa,EmpSem,AT1,900.0,1,5
+multa,EmpSem,AT2,900.0,1,5
+multa,CD3,CD2,100.0,1,5
+multa,CD3,EmpFer,420.0,1,5
+multa,EmpSem,EmpMaq,105.0,2,5
+multa,EmpSem,EmpSem,93.0,2,5
+multa,CD3,EmpFer,144.0,2,5
+multa,CD1,CD3,300.0,4,5
