@@ -1,0 +1,7 @@
+acao,pessoa1,pessoa2,valor2,rodada,jogo
+transferencia,EmpMaq|PrefeitoAT,AT3,430.0,4,5
+transferencia,AgCD3|PrefeitoCD,EmpAgr,200.0,2,6
+transferencia,AgAT2|PrefeitoAT,EmpMaq,300.0,2,6
+transferencia,AgAT2|PrefeitoAT,EmpAgr,150.0,2,6
+transferencia,AgAT2|PrefeitoAT,EmpMaq,500.0,3,6
+transferencia,AgAT2|PrefeitoAT,EmpAgr,150.0,3,6
