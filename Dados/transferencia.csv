@@ -1,7 +1,7 @@
-acao,pessoa1,pessoa2,valor2,rodada,jogo
-transferencia,EmpMaq|PrefeitoAT,AT3,430.0,4,5
-transferencia,AgCD3|PrefeitoCD,EmpAgr,200.0,2,6
-transferencia,AgAT2|PrefeitoAT,EmpMaq,300.0,2,6
-transferencia,AgAT2|PrefeitoAT,EmpAgr,150.0,2,6
-transferencia,AgAT2|PrefeitoAT,EmpMaq,500.0,3,6
-transferencia,AgAT2|PrefeitoAT,EmpAgr,150.0,3,6
+acao,pessoa1,pessoa2,valor2,rodada,jogo,etapa_1,etapa_2
+transferencia,EmpMaq|PrefeitoAT,AgAT3,430.0,4,5,2,1
+transferencia,AgCD3|PrefeitoCD,EmpAgro,200.0,2,6,2,1
+transferencia,AgAT2|PrefeitoAT,EmpMaq,300.0,2,6,2,1
+transferencia,AgAT2|PrefeitoAT,EmpAgro,150.0,2,6,2,1
+transferencia,AgAT2|PrefeitoAT,EmpMaq,500.0,3,6,2,1
+transferencia,AgAT2|PrefeitoAT,EmpAgro,150.0,3,6,2,1
