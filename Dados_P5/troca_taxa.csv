@@ -1,7 +1,7 @@
 acao,pessoa1,prox_taxa,val_taxa,rodada,jogo
-troca taxa,CD2,1,5.0,1,5
-troca taxa,CD2,3,35.0%,1,5
-troca taxa,EmpMaq,3,35.0%,1,5
-troca taxa,EmpMaq,1,5.0,2,5
-troca taxa,EmpMaq,2,5.0%,2,5
-troca taxa,EmpMaq,3,30.0%,2,5
+troca taxa,AgCD2|PrefeitoCD,1,5.0,1,5
+troca taxa,AgCD2|PrefeitoCD,3,35.0%,1,5
+troca taxa,EmpMaq|PrefeitoAT,3,35.0%,1,5
+troca taxa,EmpMaq|PrefeitoAT,1,5.0,2,5
+troca taxa,EmpMaq|PrefeitoAT,2,5.0%,2,5
+troca taxa,EmpMaq|PrefeitoAT,3,30.0%,2,5

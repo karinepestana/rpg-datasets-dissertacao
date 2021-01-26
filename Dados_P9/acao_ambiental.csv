@@ -1,0 +1,8 @@
+acao,pessoa1,tratamento,rodada,jogo
+tratamento,AgCD1|PrefeitoCD,Lixo,1,9
+tratamento,EmpMaq|PrefeitoAT,Lixo,1,9
+tratamento,AgCD1|PrefeitoCD,Esgoto,2,9
+tratamento,EmpMaq|PrefeitoAT,Esgoto,2,9
+tratamento,EmpFert|PrefeitoCD,Agua,3,9
+tratamento,EmpMaq|PrefeitoAT,Esgoto,4,9
+tratamento,EmpFert|PrefeitoCD,Esgoto,4,9

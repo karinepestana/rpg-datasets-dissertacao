@@ -1,0 +1,473 @@
+rodada 1;;;;;
+eleicao;Fiscal;Atlantis;AT2;;
+eleicao;Prefeito;Atlantis;EmpSem;;
+eleicao;Vereador;Atlantis;AT1;;
+eleicao;Fiscal;Cidadela;CD1;;
+eleicao;Prefeito;Cidadela;EmpFer;;
+eleicao;Vereador;Cidadela;CD2;;
+venda/aluguel;EmpSem;CD2;1;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;1;Super premium;baixo
+venda/aluguel;EmpSem;CD2;2;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;2;Super premium;baixo
+venda/aluguel;EmpSem;CD2;3;Hortalica;normal
+venda/aluguel;EmpFer;CD2;3;Super premium;baixo
+venda/aluguel;EmpSem;CD2;4;Hortalica;normal
+venda/aluguel;EmpFer;CD2;4;Super premium;baixo
+venda/aluguel;EmpSem;CD2;5;Hortalica;normal
+venda/aluguel;EmpFer;CD2;5;Super premium;baixo
+venda/aluguel;EmpSem;CD2;6;Hortalica;normal
+venda/aluguel;EmpFer;CD2;6;Super premium;baixo
+pedido para fiscal;CD2;fiscal CD1;pedir Selo Verde.;;
+venda/aluguel;EmpSem;CD1;1;Arroz;normal
+venda/aluguel;EmpFer;CD1;1;Comum;normal
+venda/aluguel;EmpAgr;CD1;1;Comum;normal
+venda/aluguel;EmpSem;CD1;2;Arroz;normal
+venda/aluguel;EmpFer;CD1;2;Comum;normal
+venda/aluguel;EmpAgr;CD1;2;Comum;normal
+venda/aluguel;EmpSem;CD1;3;Arroz;normal
+venda/aluguel;EmpFer;CD1;3;Comum;normal
+venda/aluguel;EmpAgr;CD1;3;Comum;normal
+venda/aluguel;EmpSem;CD1;4;Arroz;normal
+venda/aluguel;EmpFer;CD1;4;Comum;normal
+venda/aluguel;EmpAgr;CD1;4;Comum;normal
+venda/aluguel;EmpSem;AT1;1;Arroz;normal
+venda/aluguel;EmpFer;AT1;1;Super premium;baixo
+venda/aluguel;EmpMaq;AT1;1;Maquinas 3;normal
+venda/aluguel;EmpSem;AT1;2;Arroz;normal
+venda/aluguel;EmpFer;AT1;2;Super premium;baixo
+venda/aluguel;EmpMaq;AT1;2;Maquinas 3;normal
+venda/aluguel;EmpSem;AT1;3;Arroz;normal
+venda/aluguel;EmpFer;AT1;3;Super premium;baixo
+venda/aluguel;EmpMaq;AT1;3;Maquinas 3;normal
+venda/aluguel;EmpSem;AT1;4;Arroz;normal
+venda/aluguel;EmpFer;AT1;4;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;4;Super premium;normal
+venda/aluguel;EmpSem;AT1;5;Arroz;normal
+venda/aluguel;EmpFer;AT1;5;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;5;Super premium;normal
+venda/aluguel;EmpSem;AT1;6;Arroz;normal
+venda/aluguel;EmpFer;AT1;6;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;6;Super premium;normal
+venda/aluguel;EmpSem;AT2;1;Arroz;normal
+venda/aluguel;EmpFer;AT2;1;Premium;normal
+venda/aluguel;EmpMaq;AT2;1;Maquinas 2;normal
+venda/aluguel;EmpSem;AT2;2;Arroz;normal
+venda/aluguel;EmpFer;AT2;2;Premium;normal
+venda/aluguel;EmpMaq;AT2;2;Maquinas 2;normal
+venda/aluguel;EmpSem;AT2;3;Arroz;normal
+venda/aluguel;EmpFer;AT2;3;Premium;normal
+venda/aluguel;EmpMaq;AT2;3;Maquinas 2;normal
+venda/aluguel;EmpSem;AT2;4;Arroz;normal
+venda/aluguel;EmpFer;AT2;4;Premium;normal
+venda/aluguel;EmpMaq;AT2;4;Maquinas 2;normal
+venda/aluguel;EmpSem;AT2;5;Arroz;normal
+venda/aluguel;EmpFer;AT2;5;Premium;normal
+venda/aluguel;EmpAgr;AT2;5;Premium;normal
+venda/aluguel;EmpSem;AT2;6;Arroz;normal
+venda/aluguel;EmpFer;AT2;6;Premium;normal
+venda/aluguel;EmpAgr;AT2;6;Premium;normal
+pedido para fiscal;AT1;fiscal AT2;pedir Selo Verde.;;
+imposto;prefeito EmpSem;EmpSem;111.0;;
+imposto;prefeito EmpFer;EmpFer;450.0;;
+imposto;prefeito EmpSem;EmpMaq;153.0;;
+imposto;prefeito EmpFer;EmpAgr;17.0;;
+imposto;prefeito EmpSem;AT1;1080.0;;
+imposto;prefeito EmpFer;CD1;144.0;;
+imposto;prefeito EmpSem;AT2;432.0;;
+imposto;prefeito EmpFer;CD2;72.0;;
+multa;CD1;EmpFer;108.0;;
+deu selo;CD1;CD2;1;;
+deu selo;CD1;CD2;2;;
+deu selo;CD1;CD2;3;;
+deu selo;CD1;CD2;4;;
+deu selo;CD1;CD2;5;;
+deu selo;CD1;CD2;6;;
+multa;AT2;AT1;110.0;;
+usa acao;prefeito EmpSem;Agua;;;
+usa acao;prefeito EmpFer;Esgoto;;;
+deu selo;AT2;AT2;4;;
+EmpSem;0.38;359.0;;;
+EmpFer;1.08;1042.0;;;
+EmpMaq;0.51;457.0;;;
+EmpAgr;0.19;253.0;;;
+AT1;10.999.999.999.999.900;2020.0;;;
+CD1;0.4;696.0;;;
+AT2;0.5333333333333333;848.0;;;
+CD2;0.1;208.0;;;
+fiscal AT2;0.0;;;;
+fiscal CD1;0.0;;;;
+prefeito EmpSem;2086.0;;;;
+prefeito EmpFer;-609.0;;;;
+vereador AT1;0.0;;;;
+vereador CD2;0.0;;;;
+mundo;19.434.666.666.666.600;;;;
+rodada 2;;;;;
+venda/aluguel;EmpSem;AT2;1;Soja;normal
+venda/aluguel;EmpFer;AT2;1;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;1;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;2;Soja;alto
+venda/aluguel;EmpFer;AT2;2;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;2;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;3;Soja;alto
+venda/aluguel;EmpFer;AT2;3;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;3;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;4;Soja;alto
+venda/aluguel;EmpFer;AT2;4;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;4;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;5;Soja;alto
+venda/aluguel;EmpFer;AT2;5;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;5;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;6;Soja;alto
+venda/aluguel;EmpFer;AT2;6;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;6;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT1;1;Soja;alto
+venda/aluguel;EmpFer;AT1;1;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;1;Super premium;normal
+venda/aluguel;EmpSem;AT1;2;Soja;alto
+venda/aluguel;EmpFer;AT1;2;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;2;Super premium;normal
+venda/aluguel;EmpSem;AT1;3;Soja;alto
+venda/aluguel;EmpFer;AT1;3;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;3;Super premium;normal
+venda/aluguel;EmpSem;AT1;4;Soja;alto
+venda/aluguel;EmpFer;AT1;4;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;4;Super premium;normal
+venda/aluguel;EmpSem;AT1;5;Soja;alto
+venda/aluguel;EmpFer;AT1;5;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;5;Super premium;normal
+venda/aluguel;EmpSem;AT1;6;Soja;alto
+venda/aluguel;EmpFer;AT1;6;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;6;Super premium;normal
+venda/aluguel;EmpSem;CD2;1;Hortalica;normal
+venda/aluguel;EmpFer;CD2;1;Super premium;baixo
+venda/aluguel;EmpSem;CD2;2;Hortalica;normal
+venda/aluguel;EmpFer;CD2;2;Super premium;baixo
+venda/aluguel;EmpSem;CD2;3;Hortalica;normal
+venda/aluguel;EmpFer;CD2;3;Super premium;baixo
+venda/aluguel;EmpSem;CD2;4;Hortalica;normal
+venda/aluguel;EmpFer;CD2;4;Super premium;baixo
+venda/aluguel;EmpSem;CD2;5;Hortalica;normal
+venda/aluguel;EmpFer;CD2;5;Super premium;baixo
+venda/aluguel;EmpSem;CD1;1;Arroz;alto
+venda/aluguel;EmpFer;CD1;1;Super premium;alto
+venda/aluguel;EmpMaq;CD1;1;Maquinas 1;normal
+venda/aluguel;EmpSem;CD1;2;Arroz;alto
+venda/aluguel;EmpFer;CD1;2;Super premium;alto
+venda/aluguel;EmpMaq;CD1;2;Maquinas 1;normal
+imposto;prefeito EmpSem;EmpSem;154.5;;
+imposto;prefeito EmpFer;EmpFer;490.5;;
+imposto;prefeito EmpSem;EmpMaq;171.0;;
+imposto;prefeito EmpFer;EmpAgr;18.0;;
+imposto;prefeito EmpSem;AT1;2160.0;;
+imposto;prefeito EmpFer;CD1;72.0;;
+imposto;prefeito EmpSem;AT2;714.0;;
+imposto;prefeito EmpFer;CD2;57.0;;
+usa acao;prefeito EmpSem;Lixo;;;
+troca taxa;EmpSem;3;25.0%;;
+usa acao;prefeito EmpFer;Agua;;;
+troca taxa;EmpFer;1;15.0;;
+troca taxa;EmpFer;2;15.0%;;
+troca taxa;EmpFer;3;35.0%;;
+multa;AT2;AT1;900.0;;
+deu selo;AT2;AT2;6;;
+EmpSem;0.44999999999999996;719.5;;;
+EmpFer;0.5700000000000001;2186.5;;;
+EmpMaq;0.6;856.0;;;
+EmpAgr;0.06;415.0;;;
+AT1;3.0;5260.0;;;
+CD1;0.06666666666666667;564.0;;;
+AT2;0.3;1309.0;;;
+CD2;0.08333333333333334;-124.0;;;
+fiscal AT2;0.0;;;;
+fiscal CD1;0.0;;;;
+prefeito EmpSem;4585.5;;;;
+prefeito EmpFer;-771.5;;;;
+vereador AT1;0.0;;;;
+vereador CD2;0.0;;;;
+mundo;20.879.966.666.666.600;;;;
+rodada 3;;;;;
+eleicao;Fiscal;Atlantis;AT2;;
+eleicao;Prefeito;Atlantis;EmpSem;;
+eleicao;Vereador;Atlantis;AT1;;
+eleicao;Fiscal;Cidadela;CD1;;
+eleicao;Prefeito;Cidadela;EmpFer;;
+eleicao;Vereador;Cidadela;CD2;;
+transferencia;EmpFer;EmpFer (Prefeito);700.0;;
+venda/aluguel;EmpSem;CD2;1;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;1;Super premium;normal
+venda/aluguel;EmpSem;CD2;2;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;2;Super premium;normal
+venda/aluguel;EmpSem;CD2;3;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;3;Super premium;normal
+venda/aluguel;EmpSem;CD2;4;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;4;Super premium;normal
+venda/aluguel;EmpSem;CD2;5;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;5;Super premium;normal
+venda/aluguel;EmpSem;CD2;6;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;6;Super premium;normal
+venda/aluguel;EmpSem;AT1;1;Arroz;baixo
+venda/aluguel;EmpFer;AT1;1;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;1;Super premium;normal
+venda/aluguel;EmpSem;AT1;2;Arroz;baixo
+venda/aluguel;EmpFer;AT1;2;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;2;Super premium;normal
+venda/aluguel;EmpSem;AT1;3;Arroz;baixo
+venda/aluguel;EmpFer;AT1;3;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;3;Super premium;normal
+venda/aluguel;EmpSem;AT1;4;Soja;normal
+venda/aluguel;EmpFer;AT1;4;Super premium;normal
+venda/aluguel;EmpMaq;AT1;4;Maquinas 3;alto
+venda/aluguel;EmpSem;AT1;5;Soja;normal
+venda/aluguel;EmpFer;AT1;5;Super premium;normal
+venda/aluguel;EmpMaq;AT1;5;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT1;6;Soja;normal
+venda/aluguel;EmpFer;AT1;6;Super premium;normal
+venda/aluguel;EmpMaq;AT1;6;Maquinas 3;baixo
+venda/aluguel;EmpSem;CD1;1;Arroz;baixo
+venda/aluguel;EmpFer;CD1;1;Super premium;normal
+venda/aluguel;EmpAgr;CD1;1;Super premium;normal
+venda/aluguel;EmpSem;CD1;2;Arroz;baixo
+venda/aluguel;EmpFer;CD1;2;Super premium;normal
+venda/aluguel;EmpAgr;CD1;2;Super premium;normal
+venda/aluguel;EmpSem;CD1;3;Arroz;baixo
+venda/aluguel;EmpFer;CD1;3;Super premium;normal
+venda/aluguel;EmpAgr;CD1;3;Premium;normal
+venda/aluguel;EmpSem;CD1;4;Hortalica;baixo
+venda/aluguel;EmpSem;CD1;5;Hortalica;baixo
+venda/aluguel;EmpSem;CD1;6;Hortalica;baixo
+venda/aluguel;EmpSem;AT2;1;Hortalica;baixo
+venda/aluguel;EmpFer;AT2;1;Super premium;normal
+venda/aluguel;EmpSem;AT2;2;Hortalica;baixo
+venda/aluguel;EmpFer;AT2;2;Super premium;normal
+venda/aluguel;EmpSem;AT2;3;Hortalica;baixo
+venda/aluguel;EmpFer;AT2;3;Super premium;normal
+venda/aluguel;EmpSem;AT2;4;Hortalica;baixo
+venda/aluguel;EmpFer;AT2;4;Super premium;baixo
+venda/aluguel;EmpSem;AT2;5;Soja;normal
+venda/aluguel;EmpFer;AT2;5;Super premium;baixo
+venda/aluguel;EmpSem;AT2;6;Soja;normal
+venda/aluguel;EmpFer;AT2;6;Super premium;baixo
+imposto;prefeito EmpSem;EmpSem;76.25;;
+imposto;prefeito EmpFer;EmpFer;651.0;;
+imposto;prefeito EmpSem;EmpMaq;66.25;;
+imposto;prefeito EmpFer;EmpAgr;25.5;;
+imposto;prefeito EmpSem;AT1;900.0;;
+imposto;prefeito EmpFer;CD1;738.5;;
+imposto;prefeito EmpSem;AT2;59.0;;
+imposto;prefeito EmpFer;CD2;79.8;;
+multa;AT2;AT1;115.0;;
+deu selo;AT2;AT2;4;;
+deu selo;AT2;AT2;6;;
+multa;CD1;CD1;9.166.666.666.666.660;;
+deu selo;CD1;CD1;4;;
+deu selo;CD1;CD1;5;;
+deu selo;CD1;CD1;6;;
+usa acao;prefeito EmpSem;Lixo;;;
+EmpSem;0.4;948.25;;;
+EmpFer;0.63;2695.5;;;
+EmpMaq;0.27;1054.75;;;
+EmpAgr;0.06999999999999999;559.5;;;
+AT1;1.15;6830.0;;;
+CD1;0.9166666666666666;14.338.333.333.333.300;;;
+AT2;0.16666666666666669;885.0;;;
+CD2;0.1;-533.8;;;
+fiscal AT2;0.0;;;;
+fiscal CD1;0.0;;;;
+prefeito EmpSem;4202.0;;;;
+prefeito EmpFer;1.514.966.666.666.660;;;;
+vereador AT1;0.0;;;;
+vereador CD2;0.0;;;;
+mundo;22.124.969.999.999.900;;;;
+rodada 4;;;;;
+venda/aluguel;EmpSem;CD2;1;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;1;Premium;normal
+venda/aluguel;EmpSem;CD2;2;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;2;Premium;normal
+venda/aluguel;EmpSem;CD2;3;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;3;Premium;normal
+venda/aluguel;EmpSem;CD2;4;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;4;Premium;normal
+venda/aluguel;EmpSem;CD2;5;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;5;Premium;baixo
+venda/aluguel;EmpSem;CD2;6;Hortalica;baixo
+venda/aluguel;EmpFer;CD2;6;Premium;baixo
+venda/aluguel;EmpSem;AT1;1;Soja;alto
+venda/aluguel;EmpFer;AT1;1;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;1;Super premium;normal
+venda/aluguel;EmpMaq;AT1;1;Pulverizador;baixo
+venda/aluguel;EmpSem;AT1;2;Soja;alto
+venda/aluguel;EmpFer;AT1;2;Super premium;baixo
+venda/aluguel;EmpAgr;AT1;2;Super premium;normal
+venda/aluguel;EmpSem;AT1;3;Arroz;baixo
+venda/aluguel;EmpFer;AT1;3;Super premium;normal
+venda/aluguel;EmpAgr;AT1;3;Super premium;normal
+venda/aluguel;EmpSem;AT1;4;Arroz;baixo
+venda/aluguel;EmpFer;AT1;4;Super premium;normal
+venda/aluguel;EmpAgr;AT1;4;Super premium;normal
+venda/aluguel;EmpSem;AT1;5;Hortalica;baixo
+venda/aluguel;EmpFer;AT1;5;Super premium;normal
+venda/aluguel;EmpAgr;AT1;5;Super premium;baixo
+venda/aluguel;EmpSem;AT1;6;Hortalica;baixo
+venda/aluguel;EmpFer;AT1;6;Super premium;normal
+venda/aluguel;EmpAgr;AT1;6;Super premium;baixo
+venda/aluguel;EmpSem;CD1;1;Arroz;normal
+venda/aluguel;EmpFer;CD1;1;Super premium;normal
+venda/aluguel;EmpAgr;CD1;1;Premium;normal
+venda/aluguel;EmpSem;CD1;2;Arroz;normal
+venda/aluguel;EmpFer;CD1;2;Super premium;normal
+venda/aluguel;EmpAgr;CD1;2;Premium;normal
+venda/aluguel;EmpSem;CD1;3;Arroz;normal
+venda/aluguel;EmpFer;CD1;3;Super premium;normal
+venda/aluguel;EmpAgr;CD1;3;Premium;normal
+venda/aluguel;EmpSem;CD1;4;Arroz;normal
+venda/aluguel;EmpFer;CD1;4;Super premium;normal
+venda/aluguel;EmpAgr;CD1;4;Premium;normal
+venda/aluguel;EmpSem;AT2;1;Soja;baixo
+venda/aluguel;EmpFer;AT2;1;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;1;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;2;Soja;baixo
+venda/aluguel;EmpFer;AT2;2;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;2;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;3;Soja;alto
+venda/aluguel;EmpFer;AT2;3;Super premium;normal
+venda/aluguel;EmpMaq;AT2;3;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;4;Soja;alto
+venda/aluguel;EmpFer;AT2;4;Super premium;normal
+venda/aluguel;EmpMaq;AT2;4;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;5;Soja;alto
+venda/aluguel;EmpFer;AT2;5;Super premium;normal
+venda/aluguel;EmpMaq;AT2;5;Maquinas 3;baixo
+venda/aluguel;EmpSem;AT2;6;Soja;alto
+venda/aluguel;EmpFer;AT2;6;Super premium;normal
+venda/aluguel;EmpMaq;AT2;6;Maquinas 3;baixo
+pedido para fiscal;AT2;fiscal AT2;pedir Selo Verde.;;
+pedido para fiscal;CD2;fiscal CD1;pedir Selo Verde.;;
+imposto;prefeito EmpSem;EmpSem;102.5;;
+imposto;prefeito EmpFer;EmpFer;619.5;;
+imposto;prefeito EmpSem;EmpMaq;226.25;;
+imposto;prefeito EmpFer;EmpAgr;87.5;;
+imposto;prefeito EmpSem;AT1;1200.0;;
+imposto;prefeito EmpFer;CD1;6.551.999.999.999.990;;
+imposto;prefeito EmpSem;AT2;590.0;;
+imposto;prefeito EmpFer;CD2;5.984.999.999.999.990;;
+multa;AT2;AT1;350.0;;
+deu selo;AT2;AT2;5;;
+deu selo;AT2;AT2;6;;
+usa acao;prefeito EmpSem;Esgoto;;;
+troca taxa;EmpFer;1;5.0;;
+troca taxa;EmpFer;2;5.0%;;
+troca taxa;EmpFer;3;25.0%;;
+EmpSem;0.44;1255.75;;;
+EmpFer;0.84;3846.0;;;
+EmpMaq;0.9400000000000001;1733.5;;;
+EmpAgr;0.13999999999999999;722.0;;;
+AT1;17.500.000.000.000.000;8875.0;;;
+CD1;0.8;21.786.333.333.333.300;;;
+AT2;0.3;1465.0;;;
+CD2;0.1;-793.65;;;
+fiscal AT2;0.0;;;;
+fiscal CD1;0.0;;;;
+prefeito EmpSem;4270.75;;;;
+prefeito EmpFer;29.370.166.666.666.600;;;;
+vereador AT1;0.0;;;;
+vereador CD2;0.0;;;;
+mundo;23.319.724.499.999.900;;;;
+rodada 5;;;;;
+venda/aluguel;EmpSem;CD2;1;Hortalica;normal
+venda/aluguel;EmpFer;CD2;1;Super premium;normal
+venda/aluguel;EmpSem;CD2;2;Hortalica;normal
+venda/aluguel;EmpFer;CD2;2;Super premium;normal
+venda/aluguel;EmpSem;CD2;3;Hortalica;normal
+venda/aluguel;EmpFer;CD2;3;Super premium;normal
+venda/aluguel;EmpSem;CD2;4;Hortalica;normal
+venda/aluguel;EmpFer;CD2;4;Super premium;normal
+venda/aluguel;EmpSem;CD2;5;Hortalica;normal
+venda/aluguel;EmpFer;CD2;5;Super premium;normal
+venda/aluguel;EmpSem;CD2;6;Hortalica;normal
+venda/aluguel;EmpFer;CD2;6;Super premium;normal
+venda/aluguel;EmpSem;AT1;1;Hortalica;normal
+venda/aluguel;EmpFer;AT1;1;Comum;baixo
+venda/aluguel;EmpMaq;AT1;1;Maquinas 2;normal
+venda/aluguel;EmpSem;AT1;2;Hortalica;normal
+venda/aluguel;EmpFer;AT1;2;Comum;baixo
+venda/aluguel;EmpMaq;AT1;2;Maquinas 2;normal
+venda/aluguel;EmpSem;AT1;3;Hortalica;normal
+venda/aluguel;EmpFer;AT1;3;Premium;baixo
+venda/aluguel;EmpMaq;AT1;3;Maquinas 2;normal
+venda/aluguel;EmpSem;AT1;4;Hortalica;normal
+venda/aluguel;EmpFer;AT1;4;Premium;baixo
+venda/aluguel;EmpMaq;AT1;4;Maquinas 2;normal
+venda/aluguel;EmpSem;AT1;5;Hortalica;normal
+venda/aluguel;EmpFer;AT1;5;Premium;baixo
+venda/aluguel;EmpMaq;AT1;5;Maquinas 2;normal
+venda/aluguel;EmpSem;AT1;6;Hortalica;normal
+venda/aluguel;EmpFer;AT1;6;Premium;baixo
+venda/aluguel;EmpMaq;AT1;6;Maquinas 2;normal
+venda/aluguel;EmpSem;CD1;1;Arroz;baixo
+venda/aluguel;EmpFer;CD1;1;Super premium;baixo
+venda/aluguel;EmpMaq;CD1;1;Maquinas 3;normal
+venda/aluguel;EmpSem;CD1;2;Arroz;baixo
+venda/aluguel;EmpFer;CD1;2;Super premium;baixo
+venda/aluguel;EmpMaq;CD1;2;Maquinas 3;normal
+venda/aluguel;EmpSem;CD1;3;Arroz;baixo
+venda/aluguel;EmpFer;CD1;3;Super premium;baixo
+venda/aluguel;EmpMaq;CD1;3;Maquinas 3;normal
+venda/aluguel;EmpSem;CD1;4;Arroz;baixo
+venda/aluguel;EmpFer;CD1;4;Super premium;baixo
+venda/aluguel;EmpMaq;CD1;4;Maquinas 3;normal
+venda/aluguel;EmpSem;AT2;1;Soja;baixo
+venda/aluguel;EmpFer;AT2;1;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;1;Maquinas 3;normal
+venda/aluguel;EmpSem;AT2;2;Soja;baixo
+venda/aluguel;EmpFer;AT2;2;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;2;Maquinas 3;normal
+venda/aluguel;EmpSem;AT2;3;Soja;baixo
+venda/aluguel;EmpFer;AT2;3;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;3;Maquinas 3;normal
+venda/aluguel;EmpSem;AT2;4;Soja;baixo
+venda/aluguel;EmpFer;AT2;4;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;4;Maquinas 3;normal
+venda/aluguel;EmpSem;AT2;5;Soja;alto
+venda/aluguel;EmpFer;AT2;5;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;5;Maquinas 3;normal
+venda/aluguel;EmpSem;AT2;6;Soja;alto
+venda/aluguel;EmpFer;AT2;6;Super premium;baixo
+venda/aluguel;EmpMaq;AT2;6;Maquinas 3;normal
+pedido para fiscal;CD2;fiscal CD1;pedir Selo Verde.;;
+pedido para fiscal;AT2;fiscal AT2;pedir Selo Verde.;;
+pedido para fiscal;AT1;fiscal AT2;pedir Selo Verde.;;
+transferencia;AT1; (Prefeito);1000.0;;
+eleicao;Fiscal;Atlantis;AT2;;
+eleicao;Prefeito;Atlantis;EmpSem;;
+eleicao;Vereador;Atlantis;EmpMaq;;
+eleicao;Fiscal;Cidadela;CD1;;
+eleicao;Prefeito;Cidadela;EmpFer;;
+eleicao;Vereador;Cidadela;CD2;;
+imposto;prefeito EmpSem;EmpSem;87.5;;
+imposto;prefeito EmpFer;EmpFer;415.0;;
+imposto;prefeito EmpSem;EmpMaq;315.0;;
+imposto;prefeito EmpFer;EmpAgr;5.0;;
+imposto;prefeito EmpSem;AT1;240.0;;
+imposto;prefeito EmpFer;CD1;390.0;;
+imposto;prefeito EmpSem;AT2;585.0;;
+imposto;prefeito EmpFer;CD2;57.0;;
+usa acao;prefeito EmpFer;Agua;;;
+usa acao;prefeito EmpSem;Lixo;;;
+multa;AT2;EmpMaq;252.0;;
+deu selo;AT2;AT2;4;;
+deu selo;AT2;AT2;6;;
+EmpSem;0.38;1518.25;;;
+EmpFer;0.8999999999999999;5091.0;;;
+EmpMaq;1.26;2426.5;;;
+EmpAgr;0.0;717.0;;;
+AT1;0.1;7905.0;;;
+CD1;0.13333333333333333;26.286.333.333.333.300;;;
+AT2;0.3;2060.0;;;
+CD2;0.1;-1210.65;;;
+fiscal AT2;0.0;;;;
+fiscal CD1;0.0;;;;
+prefeito EmpSem;5150.25;;;;
+prefeito EmpFer;30.040.166.666.666.600;;;;
+vereador EmpMaq;0.0;;;;
+vereador CD2;0.0;;;;
+mundo;22.519.099.158.333.300;;;;

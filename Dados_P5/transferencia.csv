@@ -1,2 +1,2 @@
-acao,pessoa1,pessoa2,valor2,rodada,jogo
-transferencia,EmpMaq (Prefeito),AT3,430.0,4,5
+acao,pessoa1,pessoa2,valor2,rodada,jogo,etapa_1,etapa_2
+transferencia,EmpMaq|PrefeitoAT,AgAT3,430.0,4,5,2,1

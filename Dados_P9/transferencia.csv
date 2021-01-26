@@ -1,0 +1,16 @@
+acao,pessoa1,pessoa2,valor2,rodada,jogo
+transferencia,EmpMaq|PrefeitoAT,EmpMaq|PrefeitoAT,200.0,1,9
+transferencia,EmpMaq|PrefeitoAT,AgCD2|FiscalCD,105.0,2,9
+transferencia,EmpMaq|PrefeitoAT,EmpMaq|PrefeitoAT,300.0,2,9
+transferencia,EmpMaq|PrefeitoAT,EmpSem|FiscalAT,200.0,2,9
+transferencia,AgCD3,EmpSem|FiscalAT,100.0,3,9
+transferencia,AgAT3,EmpSem|FiscalAT,100.0,3,9
+transferencia,AgAT1,EmpSem|FiscalAT,100.0,3,9
+transferencia,EmpFer (Prefeito),AgCD1|VereadorCD,200.0,3,9
+transferencia,EmpFer (Prefeito),AgCD2,200.0,3,9
+transferencia,EmpFer (Prefeito),AgCD3,200.0,3,9
+transferencia,EmpMaq|PrefeitoAT,AgAT1,100.0,3,9
+transferencia,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,100.0,3,9
+transferencia,EmpMaq|PrefeitoAT,AgAT3,100.0,3,9
+transferencia,EmpFer (Prefeito),AgCD1|VereadorCD,200.0,4,9
+transferencia,EmpFer (Prefeito),AgCD2,200.0,4,9

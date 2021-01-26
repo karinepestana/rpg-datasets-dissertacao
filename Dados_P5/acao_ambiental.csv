@@ -1,14 +1,14 @@
 acao,pessoa1,tratamento,rodada,jogo
-tratamento,prefeito CD2,Agua,1,5
-tratamento,prefeito CD2,Lixo,1,5
-tratamento,prefeito CD2,Esgoto,1,5
-tratamento,prefeito EmpMaq,Agua,1,5
-tratamento,prefeito EmpMaq,Lixo,1,5
-tratamento,prefeito EmpMaq,Esgoto,2,5
-tratamento,prefeito CD2,Lixo,2,5
-tratamento,prefeito CD2,Esgoto,2,5
-tratamento,prefeito CD2,Esgoto,3,5
-tratamento,prefeito EmpMaq,Agua,4,5
-tratamento,prefeito EmpMaq,Lixo,4,5
-tratamento,prefeito EmpMaq,Esgoto,4,5
-tratamento,prefeito CD2,Lixo,4,5
+tratamento,AgCD2|PrefeitoCD,Agua,1,5
+tratamento,AgCD2|PrefeitoCD,Lixo,1,5
+tratamento,AgCD2|PrefeitoCD,Esgoto,1,5
+tratamento,EmpMaq|PrefeitoAT,Agua,1,5
+tratamento,EmpMaq|PrefeitoAT,Lixo,1,5
+tratamento,EmpMaq|PrefeitoAT,Esgoto,2,5
+tratamento,AgCD2|PrefeitoCD,Lixo,2,5
+tratamento,AgCD2|PrefeitoCD,Esgoto,2,5
+tratamento,AgCD2|PrefeitoCD,Esgoto,3,5
+tratamento,EmpMaq|PrefeitoAT,Agua,4,5
+tratamento,EmpMaq|PrefeitoAT,Lixo,4,5
+tratamento,EmpMaq|PrefeitoAT,Esgoto,4,5
+tratamento,AgCD2|PrefeitoCD,Lixo,4,5

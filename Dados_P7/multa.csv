@@ -1,0 +1,12 @@
+acao,pessoa1,pessoa2,valor3,rodada,jogo
+multa,AgAT1|FiscalAT,AgAT2,3666666666666660,3,7
+multa,AgAT1|FiscalAT,EmpMaq|VereadorAT,1212.0,3,7
+multa,AgCD1|FiscalCD,AgCD2|PrefeitoCD,250.0,3,7
+multa,AgCD1|FiscalCD,AgCD3,2933333333333330,3,7
+multa,AgAT1|FiscalAT,EmpSem|PrefeitoAT,216.0,4,7
+multa,AgCD1|FiscalCD,AgCD2|PrefeitoCD,15.0,4,7
+multa,AgCD1|FiscalCD,AgCD2|PrefeitoCD,40.0,5,7
+multa,AgCD1|FiscalCD,AgCD3,10.0,5,7
+multa,AgCD1|FiscalCD,EmpFert,168.0,5,7
+multa,AgAT1|FiscalAT,AgAT3,240.0,5,7
+multa,AgAT1|FiscalAT,EmpMaq|VereadorAT,520.0,5,7

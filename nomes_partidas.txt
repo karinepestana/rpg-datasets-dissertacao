@@ -39,3 +39,67 @@ EmpFert|FiscalCD
 EmpMaq
 EmpSem|FiscalAT
 
+P7
+
+AgCD1|FiscalCD
+AgCD2|PrefeitoCD
+AgCD3
+AgAT1|FiscalAT
+AgAT2
+AgAT3
+EmpAgro|VereadorCD
+EmpFert
+EmpMaq|VereadorAT
+EmpSem|PrefeitoAT
+
+P8
+
+Rodada 1-2-3-4
+
+AgCD1|FiscalCD
+AgCD2|VereadorCD
+AgAT1|VereadorAT
+AgAT2|FiscalAT
+EmpAgro
+EmpFert|PrefeitoCD
+EmpMaq
+EmpSem|PrefeitoAT
+
+Rodada 5
+
+AgCD1|FiscalCD
+AgCD2|VereadorCD
+AgAT1
+AgAT2|FiscalAT
+EmpAgro
+EmpFert|PrefeitoCD
+EmpMaq|VereadorAT
+EmpSem|PrefeitoAT
+
+P9
+
+Rodada 1-2
+
+AgCD1|PrefeitoCD
+AgCD2|FiscalCD
+AgCD3
+AgAT1
+AgAT2
+AgAT3|VereadorAT
+EmpAgro
+EmpFert|VereadorCD
+EmpMaq|PrefeitoAT
+EmpSem|FiscalAT
+
+Rodada 3-4
+
+AgCD1|VereadorCD
+AgCD2
+AgCD3
+AgAT1
+AgAT2|VereadorAT
+AgAT3
+EmpAgro|FiscalCD
+EmpFert|PrefeitoCD
+EmpMaq|PrefeitoAT
+EmpSem|FiscalAT

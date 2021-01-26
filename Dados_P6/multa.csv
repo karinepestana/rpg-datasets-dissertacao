@@ -1,0 +1,14 @@
+acao,pessoa1,pessoa2,valor3,rodada,jogo
+multa,EmpSem|FiscalAT,EmpMaq,153.0,1,6
+multa,EmpSem|FiscalAT,AgAT3,900.0,1,6
+multa,EmpFert|FiscalCD,EmpFert|FiscalCD,246.0,1,6
+multa,EmpSem|FiscalAT,EmpMaq,121.0,2,6
+multa,EmpSem|FiscalAT,AgAT3,900.0,2,6
+multa,EmpFert|FiscalCD,EmpFert|FiscalCD,360.0,2,6
+multa,EmpFert|FiscalCD,AgCD2,158.34,2,6
+multa,EmpFert|FiscalCD,AgCD3|PrefeitoCD,750.0,2,6
+multa,EmpFert|FiscalCD,EmpFert|FiscalCD,105.0,3,6
+multa,EmpFert|FiscalCD,AgCD3|PrefeitoCD,900.0,3,6
+multa,EmpSem|FiscalAT,EmpMaq,372.0,3,6
+multa,EmpFert|FiscalCD,EmpFert|FiscalCD,108.0,4,6
+multa,EmpSem|FiscalAT,EmpMaq,756.0,4,6

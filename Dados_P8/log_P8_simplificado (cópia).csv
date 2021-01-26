@@ -1,0 +1,97 @@
+rodada 1,,,
+imposto,prefeito EmpSem,EmpSem,111.0
+imposto,prefeito EmpFer,EmpFer,450.0
+imposto,prefeito EmpSem,EmpMaq,153.0
+imposto,prefeito EmpFer,EmpAgr,17.0
+imposto,prefeito EmpSem,AT1,1080.0
+imposto,prefeito EmpFer,CD1,144.0
+imposto,prefeito EmpSem,AT2,432.0
+imposto,prefeito EmpFer,CD2,72.0
+multa,CD1,EmpFer,108.0
+deu selo,CD1,CD2,1
+deu selo,CD1,CD2,2
+deu selo,CD1,CD2,3
+deu selo,CD1,CD2,4
+deu selo,CD1,CD2,5
+deu selo,CD1,CD2,6
+multa,AT2,AT1,110.0
+usa acao,prefeito EmpSem,Agua,
+usa acao,prefeito EmpFer,Esgoto,
+deu selo,AT2,AT2,4
+rodada 2,,,
+imposto,prefeito EmpSem,EmpSem,154.5
+imposto,prefeito EmpFer,EmpFer,490.5
+imposto,prefeito EmpSem,EmpMaq,171.0
+imposto,prefeito EmpFer,EmpAgr,18.0
+imposto,prefeito EmpSem,AT1,2160.0
+imposto,prefeito EmpFer,CD1,72.0
+imposto,prefeito EmpSem,AT2,714.0
+imposto,prefeito EmpFer,CD2,57.0
+usa acao,prefeito EmpSem,Lixo,
+troca taxa,EmpSem,3,25.0%
+usa acao,prefeito EmpFer,Agua,
+troca taxa,EmpFer,1,15.0
+troca taxa,EmpFer,2,15.0%
+troca taxa,EmpFer,3,35.0%
+multa,AT2,AT1,900.0
+deu selo,AT2,AT2,6
+rodada 3,,,
+eleicao,Fiscal,Atlantis,AT2
+eleicao,Prefeito,Atlantis,EmpSem
+eleicao,Vereador,Atlantis,AT1
+eleicao,Fiscal,Cidadela,CD1
+eleicao,Prefeito,Cidadela,EmpFer
+eleicao,Vereador,Cidadela,CD2
+transferencia,EmpFer,EmpFer (Prefeito),700.0
+imposto,prefeito EmpSem,EmpSem,76.25
+imposto,prefeito EmpFer,EmpFer,651.0
+imposto,prefeito EmpSem,EmpMaq,66.25
+imposto,prefeito EmpFer,EmpAgr,25.5
+imposto,prefeito EmpSem,AT1,900.0
+imposto,prefeito EmpFer,CD1,738.5
+imposto,prefeito EmpSem,AT2,59.0
+imposto,prefeito EmpFer,CD2,79.8
+multa,AT2,AT1,115.0
+deu selo,AT2,AT2,4
+deu selo,AT2,AT2,6
+multa,CD1,CD1,"9,16666666666666E+015"
+deu selo,CD1,CD1,4
+deu selo,CD1,CD1,5
+deu selo,CD1,CD1,6
+usa acao,prefeito EmpSem,Lixo,
+rodada 4,,,
+pedido para fiscal,AT2,fiscal AT2,pedir Selo Verde.
+pedido para fiscal,CD2,fiscal CD1,pedir Selo Verde.
+imposto,prefeito EmpSem,EmpSem,102.5
+imposto,prefeito EmpFer,EmpFer,619.5
+imposto,prefeito EmpSem,EmpMaq,226.25
+imposto,prefeito EmpFer,EmpAgr,87.5
+imposto,prefeito EmpSem,AT1,1200.0
+imposto,prefeito EmpFer,CD1,6551999999999990
+imposto,prefeito EmpSem,AT2,590.0
+imposto,prefeito EmpFer,CD2,5984999999999990
+multa,AT2,AT1,350.0
+deu selo,AT2,AT2,5
+deu selo,AT2,AT2,6
+usa acao,prefeito EmpSem,Esgoto,
+troca taxa,EmpFer,1,5.0
+troca taxa,EmpFer,2,5.0%
+troca taxa,EmpFer,3,25.0%
+rodada 5,,,
+pedido para fiscal,CD2,fiscal CD1,pedir Selo Verde.
+pedido para fiscal,AT2,fiscal AT2,pedir Selo Verde.
+pedido para fiscal,AT1,fiscal AT2,pedir Selo Verde.
+transferencia,AT1, (Prefeito),1000.0
+imposto,prefeito EmpSem,EmpSem,87.5
+imposto,prefeito EmpFer,EmpFer,415.0
+imposto,prefeito EmpSem,EmpMaq,315.0
+imposto,prefeito EmpFer,EmpAgr,5.0
+imposto,prefeito EmpSem,AT1,240.0
+imposto,prefeito EmpFer,CD1,390.0
+imposto,prefeito EmpSem,AT2,585.0
+imposto,prefeito EmpFer,CD2,57.0
+usa acao,prefeito EmpFer,Agua,
+usa acao,prefeito EmpSem,Lixo,
+multa,AT2,EmpMaq,252.0
+deu selo,AT2,AT2,4
+deu selo,AT2,AT2,6

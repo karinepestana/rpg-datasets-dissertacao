@@ -1,0 +1,8 @@
+acao,pessoa1,prox_taxa,val_taxa,rodada,jogo
+troca taxa,EmpSem|PrefeitoAT,3,25.0%,2,8
+troca taxa,EmpFert|PrefeitoCD,1,15.0,2,8
+troca taxa,EmpFert|PrefeitoCD,2,15.0%,2,8
+troca taxa,EmpFert|PrefeitoCD,3,35.0%,2,8
+troca taxa,EmpFert|PrefeitoCD,1,5.0,4,8
+troca taxa,EmpFert|PrefeitoCD,2,5.0%,4,8
+troca taxa,EmpFert|PrefeitoCD,3,25.0%,4,8

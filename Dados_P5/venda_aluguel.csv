@@ -1,373 +1,373 @@
 acao,pessoa1,pessoa2,parcela,objeto,tipo_preco,rodada,jogo
-venda/aluguel,EmpSem,AT2,1,Soja,normal,1,5
-venda/aluguel,EmpFer,AT2,1,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT2,1,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT2,2,Soja,normal,1,5
-venda/aluguel,EmpFer,AT2,2,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT2,2,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT2,3,Soja,normal,1,5
-venda/aluguel,EmpFer,AT2,3,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT2,3,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT2,4,Soja,normal,1,5
-venda/aluguel,EmpFer,AT2,4,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT2,4,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT2,5,Soja,normal,1,5
-venda/aluguel,EmpFer,AT2,5,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT2,5,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT2,6,Soja,normal,1,5
-venda/aluguel,EmpFer,AT2,6,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT2,6,Super premium,normal,1,5
-venda/aluguel,EmpSem,CD3,1,Soja,baixo,1,5
-venda/aluguel,EmpFer,CD3,1,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD3,1,Maquinas 3,baixo,1,5
-venda/aluguel,EmpSem,CD3,2,Soja,baixo,1,5
-venda/aluguel,EmpFer,CD3,2,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD3,2,Maquinas 3,baixo,1,5
-venda/aluguel,EmpSem,CD3,3,Soja,baixo,1,5
-venda/aluguel,EmpFer,CD3,3,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD3,3,Maquinas 3,baixo,1,5
-venda/aluguel,EmpSem,CD3,4,Soja,normal,1,5
-venda/aluguel,EmpFer,CD3,4,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD3,4,Maquinas 3,baixo,1,5
-venda/aluguel,EmpSem,CD3,5,Soja,normal,1,5
-venda/aluguel,EmpFer,CD3,5,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD3,5,Maquinas 3,baixo,1,5
-venda/aluguel,EmpSem,CD3,6,Soja,normal,1,5
-venda/aluguel,EmpFer,CD3,6,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD3,6,Maquinas 3,baixo,1,5
-venda/aluguel,EmpSem,CD1,1,Arroz,alto,1,5
-venda/aluguel,EmpFer,CD1,1,Comum,baixo,1,5
-venda/aluguel,EmpSem,CD1,2,Arroz,alto,1,5
-venda/aluguel,EmpFer,CD1,2,Comum,baixo,1,5
-venda/aluguel,EmpSem,CD1,3,Soja,normal,1,5
-venda/aluguel,EmpFer,CD1,3,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD1,3,Maquinas 3,normal,1,5
-venda/aluguel,EmpSem,CD1,4,Soja,normal,1,5
-venda/aluguel,EmpFer,CD1,4,Super premium,normal,1,5
-venda/aluguel,EmpMaq,CD1,4,Maquinas 2,baixo,1,5
-venda/aluguel,EmpSem,CD1,5,Soja,normal,1,5
-venda/aluguel,EmpFer,CD1,5,Super premium,baixo,1,5
-venda/aluguel,EmpMaq,CD1,5,Maquinas 2,baixo,1,5
-venda/aluguel,EmpSem,CD1,6,Soja,normal,1,5
-venda/aluguel,EmpFer,CD1,6,Comum,baixo,1,5
-venda/aluguel,EmpSem,CD2,1,Arroz,normal,1,5
-venda/aluguel,EmpFer,CD2,1,Comum,baixo,1,5
-venda/aluguel,EmpAgr,CD2,1,Comum,normal,1,5
-venda/aluguel,EmpSem,CD2,2,Arroz,normal,1,5
-venda/aluguel,EmpFer,CD2,2,Comum,baixo,1,5
-venda/aluguel,EmpAgr,CD2,2,Comum,normal,1,5
-venda/aluguel,EmpSem,CD2,3,Arroz,normal,1,5
-venda/aluguel,EmpFer,CD2,3,Comum,baixo,1,5
-venda/aluguel,EmpAgr,CD2,3,Comum,normal,1,5
-venda/aluguel,EmpSem,CD2,4,Arroz,normal,1,5
-venda/aluguel,EmpFer,CD2,4,Comum,baixo,1,5
-venda/aluguel,EmpAgr,CD2,4,Comum,normal,1,5
-venda/aluguel,EmpSem,CD2,5,Soja,baixo,1,5
-venda/aluguel,EmpFer,CD2,5,Premium,normal,1,5
-venda/aluguel,EmpAgr,CD2,5,Premium,baixo,1,5
-venda/aluguel,EmpSem,CD2,6,Soja,baixo,1,5
-venda/aluguel,EmpFer,CD2,6,Premium,normal,1,5
-venda/aluguel,EmpAgr,CD2,6,Premium,baixo,1,5
-venda/aluguel,EmpSem,AT3,1,Arroz,alto,1,5
-venda/aluguel,EmpFer,AT3,1,Premium,baixo,1,5
-venda/aluguel,EmpSem,AT3,2,Arroz,alto,1,5
-venda/aluguel,EmpFer,AT3,2,Premium,baixo,1,5
-venda/aluguel,EmpSem,AT3,3,Soja,normal,1,5
-venda/aluguel,EmpFer,AT3,3,Premium,normal,1,5
-venda/aluguel,EmpSem,AT3,4,Soja,normal,1,5
-venda/aluguel,EmpFer,AT3,4,Premium,normal,1,5
-venda/aluguel,EmpSem,AT3,5,Soja,normal,1,5
-venda/aluguel,EmpFer,AT3,5,Premium,normal,1,5
-venda/aluguel,EmpSem,AT3,6,Soja,normal,1,5
-venda/aluguel,EmpFer,AT3,6,Premium,normal,1,5
-venda/aluguel,EmpSem,AT1,1,Soja,normal,1,5
-venda/aluguel,EmpFer,AT1,1,Premium,baixo,1,5
-venda/aluguel,EmpAgr,AT1,1,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT1,2,Soja,normal,1,5
-venda/aluguel,EmpFer,AT1,2,Premium,baixo,1,5
-venda/aluguel,EmpAgr,AT1,2,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT1,3,Soja,baixo,1,5
-venda/aluguel,EmpFer,AT1,3,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT1,3,Super premium,normal,1,5
-venda/aluguel,EmpSem,AT1,4,Soja,baixo,1,5
-venda/aluguel,EmpFer,AT1,4,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT1,4,Super premium,baixo,1,5
-venda/aluguel,EmpSem,AT1,5,Soja,baixo,1,5
-venda/aluguel,EmpFer,AT1,5,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT1,5,Super premium,baixo,1,5
-venda/aluguel,EmpSem,AT1,6,Soja,baixo,1,5
-venda/aluguel,EmpFer,AT1,6,Premium,normal,1,5
-venda/aluguel,EmpAgr,AT1,6,Super premium,baixo,1,5
-venda/aluguel,EmpSem,AT2,1,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT2,1,Super premium,alto,2,5
-venda/aluguel,EmpMaq,AT2,1,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT2,2,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT2,2,Super premium,normal,2,5
-venda/aluguel,EmpMaq,AT2,2,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT2,3,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT2,3,Super premium,normal,2,5
-venda/aluguel,EmpMaq,AT2,3,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT2,4,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT2,4,Super premium,normal,2,5
-venda/aluguel,EmpMaq,AT2,4,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT2,5,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT2,5,Super premium,normal,2,5
-venda/aluguel,EmpMaq,AT2,5,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT2,6,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT2,6,Super premium,normal,2,5
-venda/aluguel,EmpMaq,AT2,6,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT1,1,Soja,normal,2,5
-venda/aluguel,EmpFer,AT1,1,Super premium,alto,2,5
-venda/aluguel,EmpSem,AT1,2,Soja,normal,2,5
-venda/aluguel,EmpFer,AT1,2,Super premium,normal,2,5
-venda/aluguel,EmpSem,AT1,3,Soja,normal,2,5
-venda/aluguel,EmpFer,AT1,3,Super premium,normal,2,5
-venda/aluguel,EmpSem,AT1,4,Soja,normal,2,5
-venda/aluguel,EmpFer,AT1,4,Super premium,normal,2,5
-venda/aluguel,EmpSem,AT1,5,Soja,normal,2,5
-venda/aluguel,EmpFer,AT1,5,Super premium,normal,2,5
-venda/aluguel,EmpSem,AT1,6,Soja,normal,2,5
-venda/aluguel,EmpFer,AT1,6,Super premium,normal,2,5
-venda/aluguel,EmpSem,CD1,1,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD1,1,Premium,baixo,2,5
-venda/aluguel,EmpMaq,CD1,1,Maquinas 1,baixo,2,5
-venda/aluguel,EmpSem,CD1,2,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD1,2,Premium,baixo,2,5
-venda/aluguel,EmpMaq,CD1,2,Maquinas 1,baixo,2,5
-venda/aluguel,EmpSem,CD1,3,Soja,normal,2,5
-venda/aluguel,EmpFer,CD1,3,Premium,baixo,2,5
-venda/aluguel,EmpMaq,CD1,3,Maquinas 1,baixo,2,5
-venda/aluguel,EmpSem,CD1,4,Soja,normal,2,5
-venda/aluguel,EmpFer,CD1,4,Premium,baixo,2,5
-venda/aluguel,EmpMaq,CD1,4,Maquinas 2,baixo,2,5
-venda/aluguel,EmpSem,CD1,5,Soja,normal,2,5
-venda/aluguel,EmpFer,CD1,5,Premium,baixo,2,5
-venda/aluguel,EmpMaq,CD1,5,Maquinas 2,baixo,2,5
-venda/aluguel,EmpSem,CD1,6,Soja,normal,2,5
-venda/aluguel,EmpFer,CD1,6,Premium,normal,2,5
-venda/aluguel,EmpMaq,CD1,6,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,AT3,1,Hortalica,alto,2,5
-venda/aluguel,EmpFer,AT3,1,Premium,baixo,2,5
-venda/aluguel,EmpSem,AT3,2,Hortalica,alto,2,5
-venda/aluguel,EmpFer,AT3,2,Premium,baixo,2,5
-venda/aluguel,EmpSem,AT3,3,Hortalica,alto,2,5
-venda/aluguel,EmpFer,AT3,3,Premium,baixo,2,5
-venda/aluguel,EmpSem,AT3,4,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT3,4,Premium,baixo,2,5
-venda/aluguel,EmpSem,AT3,5,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT3,5,Premium,baixo,2,5
-venda/aluguel,EmpSem,AT3,6,Arroz,normal,2,5
-venda/aluguel,EmpFer,AT3,6,Premium,alto,2,5
-venda/aluguel,EmpSem,CD3,1,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD3,1,Super premium,baixo,2,5
-venda/aluguel,EmpAgr,CD3,1,Super premium,baixo,2,5
-venda/aluguel,EmpSem,CD3,2,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD3,2,Super premium,baixo,2,5
-venda/aluguel,EmpAgr,CD3,2,Super premium,baixo,2,5
-venda/aluguel,EmpSem,CD3,3,Soja,normal,2,5
-venda/aluguel,EmpFer,CD3,3,Super premium,baixo,2,5
-venda/aluguel,EmpAgr,CD3,3,Super premium,baixo,2,5
-venda/aluguel,EmpSem,CD3,4,Soja,normal,2,5
-venda/aluguel,EmpFer,CD3,4,Super premium,baixo,2,5
-venda/aluguel,EmpAgr,CD3,4,Super premium,baixo,2,5
-venda/aluguel,EmpSem,CD3,5,Soja,normal,2,5
-venda/aluguel,EmpFer,CD3,5,Super premium,baixo,2,5
-venda/aluguel,EmpAgr,CD3,5,Super premium,normal,2,5
-venda/aluguel,EmpSem,CD3,6,Soja,normal,2,5
-venda/aluguel,EmpFer,CD3,6,Super premium,normal,2,5
-venda/aluguel,EmpAgr,CD3,6,Super premium,normal,2,5
-venda/aluguel,EmpSem,CD2,1,Soja,normal,2,5
-venda/aluguel,EmpFer,CD2,1,Super premium,normal,2,5
-venda/aluguel,EmpMaq,CD2,1,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,CD2,2,Soja,normal,2,5
-venda/aluguel,EmpFer,CD2,2,Super premium,normal,2,5
-venda/aluguel,EmpMaq,CD2,2,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,CD2,3,Soja,normal,2,5
-venda/aluguel,EmpFer,CD2,3,Super premium,normal,2,5
-venda/aluguel,EmpMaq,CD2,3,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,CD2,4,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD2,4,Super premium,normal,2,5
-venda/aluguel,EmpMaq,CD2,4,Maquinas 2,normal,2,5
-venda/aluguel,EmpSem,CD2,5,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD2,5,Super premium,normal,2,5
-venda/aluguel,EmpMaq,CD2,5,Maquinas 3,normal,2,5
-venda/aluguel,EmpSem,CD2,6,Soja,baixo,2,5
-venda/aluguel,EmpFer,CD2,6,Super premium,normal,2,5
-venda/aluguel,EmpMaq,CD2,6,Maquinas 3,normal,2,5
-venda/aluguel,EmpSem,CD2,1,Soja,normal,3,5
-venda/aluguel,EmpFer,CD2,1,Super premium,baixo,3,5
-venda/aluguel,EmpMaq,CD2,1,Maquinas 3,baixo,3,5
-venda/aluguel,EmpSem,CD2,2,Soja,normal,3,5
-venda/aluguel,EmpFer,CD2,2,Super premium,baixo,3,5
-venda/aluguel,EmpMaq,CD2,2,Maquinas 3,normal,3,5
-venda/aluguel,EmpSem,CD2,3,Soja,normal,3,5
-venda/aluguel,EmpFer,CD2,3,Super premium,baixo,3,5
-venda/aluguel,EmpMaq,CD2,3,Maquinas 3,normal,3,5
-venda/aluguel,EmpSem,CD2,4,Soja,normal,3,5
-venda/aluguel,EmpFer,CD2,4,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD2,4,Maquinas 2,normal,3,5
-venda/aluguel,EmpSem,CD2,5,Soja,normal,3,5
-venda/aluguel,EmpFer,CD2,5,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD2,5,Maquinas 2,normal,3,5
-venda/aluguel,EmpSem,CD2,6,Soja,normal,3,5
-venda/aluguel,EmpFer,CD2,6,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD2,6,Maquinas 2,normal,3,5
-venda/aluguel,EmpSem,CD3,1,Soja,normal,3,5
-venda/aluguel,EmpFer,CD3,1,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD3,1,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,CD3,2,Soja,normal,3,5
-venda/aluguel,EmpFer,CD3,2,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD3,2,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,CD3,3,Soja,normal,3,5
-venda/aluguel,EmpFer,CD3,3,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD3,3,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,CD3,4,Soja,normal,3,5
-venda/aluguel,EmpFer,CD3,4,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD3,4,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,CD3,5,Soja,normal,3,5
-venda/aluguel,EmpFer,CD3,5,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD3,5,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,CD3,6,Soja,normal,3,5
-venda/aluguel,EmpFer,CD3,6,Super premium,baixo,3,5
-venda/aluguel,EmpMaq,CD3,6,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,AT3,1,Arroz,baixo,3,5
-venda/aluguel,EmpFer,AT3,1,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT3,2,Arroz,baixo,3,5
-venda/aluguel,EmpFer,AT3,2,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT3,3,Arroz,baixo,3,5
-venda/aluguel,EmpFer,AT3,3,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT3,4,Arroz,normal,3,5
-venda/aluguel,EmpFer,AT3,4,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT3,5,Arroz,normal,3,5
-venda/aluguel,EmpFer,AT3,5,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT3,6,Arroz,normal,3,5
-venda/aluguel,EmpFer,AT3,6,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT1,1,Hortalica,alto,3,5
-venda/aluguel,EmpFer,AT1,1,Premium,baixo,3,5
-venda/aluguel,EmpSem,AT1,2,Hortalica,alto,3,5
-venda/aluguel,EmpFer,AT1,2,Super premium,normal,3,5
-venda/aluguel,EmpSem,AT1,3,Hortalica,alto,3,5
-venda/aluguel,EmpFer,AT1,3,Super premium,normal,3,5
-venda/aluguel,EmpSem,AT1,4,Soja,normal,3,5
-venda/aluguel,EmpFer,AT1,4,Super premium,normal,3,5
-venda/aluguel,EmpSem,AT1,5,Soja,normal,3,5
-venda/aluguel,EmpFer,AT1,5,Super premium,normal,3,5
-venda/aluguel,EmpSem,AT1,6,Soja,normal,3,5
-venda/aluguel,EmpFer,AT1,6,Super premium,normal,3,5
-venda/aluguel,EmpSem,CD1,1,Soja,baixo,3,5
-venda/aluguel,EmpFer,CD1,1,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD1,1,Maquinas 1,baixo,3,5
-venda/aluguel,EmpSem,CD1,2,Soja,normal,3,5
-venda/aluguel,EmpFer,CD1,2,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD1,2,Maquinas 1,baixo,3,5
-venda/aluguel,EmpSem,CD1,3,Soja,normal,3,5
-venda/aluguel,EmpFer,CD1,3,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD1,3,Maquinas 2,alto,3,5
-venda/aluguel,EmpSem,CD1,4,Soja,normal,3,5
-venda/aluguel,EmpFer,CD1,4,Super premium,normal,3,5
-venda/aluguel,EmpMaq,CD1,4,Maquinas 2,alto,3,5
-venda/aluguel,EmpSem,CD1,5,Soja,normal,3,5
-venda/aluguel,EmpFer,CD1,5,Super premium,baixo,3,5
-venda/aluguel,EmpMaq,CD1,5,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,CD1,6,Soja,normal,3,5
-venda/aluguel,EmpFer,CD1,6,Super premium,baixo,3,5
-venda/aluguel,EmpMaq,CD1,6,Maquinas 3,alto,3,5
-venda/aluguel,EmpSem,AT2,1,Arroz,normal,3,5
-venda/aluguel,EmpFer,AT2,1,Super premium,normal,3,5
-venda/aluguel,EmpMaq,AT2,1,Maquinas 1,baixo,3,5
-venda/aluguel,EmpSem,AT2,2,Arroz,normal,3,5
-venda/aluguel,EmpFer,AT2,2,Super premium,normal,3,5
-venda/aluguel,EmpMaq,AT2,2,Maquinas 1,baixo,3,5
-venda/aluguel,EmpSem,AT2,3,Arroz,normal,3,5
-venda/aluguel,EmpFer,AT2,3,Super premium,normal,3,5
-venda/aluguel,EmpMaq,AT2,3,Maquinas 1,baixo,3,5
-venda/aluguel,EmpSem,AT2,4,Arroz,baixo,3,5
-venda/aluguel,EmpFer,AT2,4,Super premium,normal,3,5
-venda/aluguel,EmpAgr,AT2,4,Comum,baixo,3,5
-venda/aluguel,EmpSem,AT2,5,Arroz,baixo,3,5
-venda/aluguel,EmpFer,AT2,5,Super premium,normal,3,5
-venda/aluguel,EmpAgr,AT2,5,Comum,baixo,3,5
-venda/aluguel,EmpSem,AT2,6,Arroz,baixo,3,5
-venda/aluguel,EmpFer,AT2,6,Super premium,normal,3,5
-venda/aluguel,EmpAgr,AT2,6,Comum,baixo,3,5
-venda/aluguel,EmpSem,AT2,1,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT2,1,Super premium,alto,4,5
-venda/aluguel,EmpAgr,AT2,1,Comum,baixo,4,5
-venda/aluguel,EmpSem,AT2,2,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT2,2,Super premium,normal,4,5
-venda/aluguel,EmpAgr,AT2,2,Comum,baixo,4,5
-venda/aluguel,EmpSem,AT2,3,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT2,3,Super premium,alto,4,5
-venda/aluguel,EmpAgr,AT2,3,Comum,baixo,4,5
-venda/aluguel,EmpSem,AT2,4,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT2,4,Super premium,normal,4,5
-venda/aluguel,EmpAgr,AT2,4,Comum,baixo,4,5
-venda/aluguel,EmpSem,AT2,5,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT2,5,Super premium,normal,4,5
-venda/aluguel,EmpAgr,AT2,5,Comum,baixo,4,5
-venda/aluguel,EmpSem,AT2,6,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT2,6,Super premium,normal,4,5
-venda/aluguel,EmpAgr,AT2,6,Comum,baixo,4,5
-venda/aluguel,EmpSem,AT3,1,Soja,baixo,4,5
-venda/aluguel,EmpMaq,AT3,1,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,AT3,2,Soja,baixo,4,5
-venda/aluguel,EmpMaq,AT3,2,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,AT3,3,Soja,baixo,4,5
-venda/aluguel,EmpMaq,AT3,3,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,AT3,4,Soja,baixo,4,5
-venda/aluguel,EmpMaq,AT3,4,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,AT3,5,Soja,baixo,4,5
-venda/aluguel,EmpMaq,AT3,5,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,AT3,6,Soja,baixo,4,5
-venda/aluguel,EmpMaq,AT3,6,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,CD1,1,Hortalica,alto,4,5
-venda/aluguel,EmpFer,CD1,1,Super premium,normal,4,5
-venda/aluguel,EmpSem,CD1,2,Hortalica,alto,4,5
-venda/aluguel,EmpFer,CD1,2,Super premium,normal,4,5
-venda/aluguel,EmpSem,CD1,3,Hortalica,alto,4,5
-venda/aluguel,EmpFer,CD1,3,Super premium,normal,4,5
-venda/aluguel,EmpSem,CD1,4,Hortalica,alto,4,5
-venda/aluguel,EmpFer,CD1,4,Super premium,normal,4,5
-venda/aluguel,EmpSem,CD1,5,Hortalica,alto,4,5
-venda/aluguel,EmpFer,CD1,5,Super premium,baixo,4,5
-venda/aluguel,EmpSem,CD1,6,Hortalica,alto,4,5
-venda/aluguel,EmpFer,CD1,6,Super premium,baixo,4,5
-venda/aluguel,EmpSem,CD2,1,Arroz,normal,4,5
-venda/aluguel,EmpFer,CD2,1,Super premium,baixo,4,5
-venda/aluguel,EmpMaq,CD2,1,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,CD2,2,Arroz,alto,4,5
-venda/aluguel,EmpFer,CD2,2,Super premium,baixo,4,5
-venda/aluguel,EmpMaq,CD2,2,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,CD2,3,Arroz,alto,4,5
-venda/aluguel,EmpFer,CD2,3,Super premium,normal,4,5
-venda/aluguel,EmpMaq,CD2,3,Maquinas 1,baixo,4,5
-venda/aluguel,EmpSem,CD2,4,Hortalica,normal,4,5
-venda/aluguel,EmpFer,CD2,4,Super premium,normal,4,5
-venda/aluguel,EmpMaq,CD2,4,Maquinas 2,normal,4,5
-venda/aluguel,EmpSem,CD2,5,Hortalica,normal,4,5
-venda/aluguel,EmpFer,CD2,5,Super premium,normal,4,5
-venda/aluguel,EmpMaq,CD2,5,Maquinas 2,normal,4,5
-venda/aluguel,EmpSem,CD2,6,Hortalica,normal,4,5
-venda/aluguel,EmpFer,CD2,6,Super premium,normal,4,5
-venda/aluguel,EmpMaq,CD2,6,Maquinas 2,normal,4,5
-venda/aluguel,EmpSem,CD3,1,Soja,normal,4,5
-venda/aluguel,EmpFer,CD3,1,Super premium,normal,4,5
-venda/aluguel,EmpAgr,CD3,1,Super premium,baixo,4,5
-venda/aluguel,EmpSem,CD3,2,Soja,normal,4,5
-venda/aluguel,EmpFer,CD3,2,Super premium,normal,4,5
-venda/aluguel,EmpAgr,CD3,2,Super premium,baixo,4,5
-venda/aluguel,EmpSem,CD3,3,Soja,normal,4,5
-venda/aluguel,EmpFer,CD3,3,Super premium,normal,4,5
-venda/aluguel,EmpAgr,CD3,3,Super premium,baixo,4,5
-venda/aluguel,EmpSem,AT1,1,Hortalica,baixo,4,5
-venda/aluguel,EmpFer,AT1,1,Super premium,alto,4,5
-venda/aluguel,EmpSem,AT1,2,Hortalica,baixo,4,5
-venda/aluguel,EmpFer,AT1,2,Super premium,alto,4,5
-venda/aluguel,EmpSem,AT1,3,Hortalica,baixo,4,5
-venda/aluguel,EmpFer,AT1,3,Super premium,alto,4,5
-venda/aluguel,EmpSem,AT1,4,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT1,4,Super premium,alto,4,5
-venda/aluguel,EmpSem,AT1,5,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT1,5,Super premium,alto,4,5
-venda/aluguel,EmpSem,AT1,6,Soja,baixo,4,5
-venda/aluguel,EmpFer,AT1,6,Super premium,alto,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,1,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,1,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,1,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,2,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,2,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,2,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,3,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,3,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,3,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,4,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,4,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,4,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT|FiscalAT,AgAT2|VereadorAT,5,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,5,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,5,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,6,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,6,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,6,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,1,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,1,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|FiscalCD,1,Maquinas 3,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,2,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,2,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|FiscalCD,2,Maquinas 3,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,3,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,3,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|FiscalCD,3,Maquinas 3,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,4,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,4,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|FiscalCD,4,Maquinas 3,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,5,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,5,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|FiscalCD,5,Maquinas 3,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,6,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,6,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|FiscalCD,6,Maquinas 3,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,1,Arroz,alto,1,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,1,Comum,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,2,Arroz,alto,1,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,2,Comum,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,3,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,3,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,3,Maquinas 3,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,4,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,4,Super premium,normal,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,4,Maquinas 2,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,5,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,5,Super premium,baixo,1,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,5,Maquinas 2,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,6,Soja,normal,1,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,6,Comum,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,1,Arroz,normal,1,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,1,Comum,baixo,1,5
+venda/aluguel,EmpAgro,AgCD2|PrefeitoCD,1,Comum,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,2,Arroz,normal,1,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,2,Comum,baixo,1,5
+venda/aluguel,EmpAgro,AgCD2|PrefeitoCD,2,Comum,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,3,Arroz,normal,1,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,3,Comum,baixo,1,5
+venda/aluguel,EmpAgro,AgCD2|PrefeitoCD,3,Comum,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,4,Arroz,normal,1,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,4,Comum,baixo,1,5
+venda/aluguel,EmpAgro,AgCD2|PrefeitoCD,4,Comum,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,5,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,5,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgCD2|PrefeitoCD,5,Premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,6,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,6,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgCD2|PrefeitoCD,6,Premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,1,Arroz,alto,1,5
+venda/aluguel,EmpFert,AgAT3,1,Premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,2,Arroz,alto,1,5
+venda/aluguel,EmpFert,AgAT3,2,Premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,3,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT3,3,Premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,4,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT3,4,Premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,5,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT3,5,Premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,6,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT3,6,Premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,1,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT1,1,Premium,baixo,1,5
+venda/aluguel,EmpAgro,AgAT1,1,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,2,Soja,normal,1,5
+venda/aluguel,EmpFert,AgAT1,2,Premium,baixo,1,5
+venda/aluguel,EmpAgro,AgAT1,2,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,3,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgAT1,3,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT1,3,Super premium,normal,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,4,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgAT1,4,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT1,4,Super premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,5,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgAT1,5,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT1,5,Super premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,6,Soja,baixo,1,5
+venda/aluguel,EmpFert,AgAT1,6,Premium,normal,1,5
+venda/aluguel,EmpAgro,AgAT1,6,Super premium,baixo,1,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,1,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,1,Super premium,alto,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,1,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,2,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,2,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,2,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,3,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,3,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,3,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,4,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,4,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,4,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,5,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,5,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,5,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,6,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,6,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,6,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,1,Soja,normal,2,5
+venda/aluguel,EmpFert,AgAT1,1,Super premium,alto,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,2,Soja,normal,2,5
+venda/aluguel,EmpFert,AgAT1,2,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,3,Soja,normal,2,5
+venda/aluguel,EmpFert,AgAT1,3,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,4,Soja,normal,2,5
+venda/aluguel,EmpFert,AgAT1,4,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,5,Soja,normal,2,5
+venda/aluguel,EmpFert,AgAT1,5,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,6,Soja,normal,2,5
+venda/aluguel,EmpFert,AgAT1,6,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,1,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,1,Premium,baixo,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,1,Maquinas 1,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,2,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,2,Premium,baixo,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,2,Maquinas 1,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,3,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,3,Premium,baixo,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,3,Maquinas 1,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,4,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,4,Premium,baixo,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,4,Maquinas 2,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,5,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,5,Premium,baixo,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,5,Maquinas 2,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|VereadorCD,6,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD1|VereadorCD,6,Premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|VereadorCD,6,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,1,Hortalica,alto,2,5
+venda/aluguel,EmpFert,AgAT3,1,Premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,2,Hortalica,alto,2,5
+venda/aluguel,EmpFert,AgAT3,2,Premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,3,Hortalica,alto,2,5
+venda/aluguel,EmpFert,AgAT3,3,Premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,4,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT3,4,Premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,5,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT3,5,Premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,6,Arroz,normal,2,5
+venda/aluguel,EmpFert,AgAT3,6,Premium,alto,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,1,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,1,Super premium,baixo,2,5
+venda/aluguel,EmpAgro,AgCD3|FiscalCD,1,Super premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,2,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,2,Super premium,baixo,2,5
+venda/aluguel,EmpAgro,AgCD3|FiscalCD,2,Super premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,3,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,3,Super premium,baixo,2,5
+venda/aluguel,EmpAgro,AgCD3|FiscalCD,3,Super premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,4,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,4,Super premium,baixo,2,5
+venda/aluguel,EmpAgro,AgCD3|FiscalCD,4,Super premium,baixo,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,5,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,5,Super premium,baixo,2,5
+venda/aluguel,EmpAgro,AgCD3|FiscalCD,5,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|FiscalCD,6,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD3|FiscalCD,6,Super premium,normal,2,5
+venda/aluguel,EmpAgro,AgCD3|FiscalCD,6,Super premium,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,1,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,1,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,1,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,2,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,2,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,2,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,3,Soja,normal,2,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,3,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,3,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,4,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,4,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,4,Maquinas 2,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,5,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,5,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,5,Maquinas 3,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,6,Soja,baixo,2,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,6,Super premium,normal,2,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,6,Maquinas 3,normal,2,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,1,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,1,Super premium,baixo,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,1,Maquinas 3,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,2,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,2,Super premium,baixo,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,2,Maquinas 3,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,3,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,3,Super premium,baixo,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,3,Maquinas 3,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,4,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,4,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,4,Maquinas 2,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,5,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,5,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,5,Maquinas 2,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,6,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,6,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,6,Maquinas 2,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,1,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,1,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|VereadorCD,1,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,2,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,2,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|VereadorCD,2,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,3,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,3,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|VereadorCD,3,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,4,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,4,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|VereadorCD,4,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,5,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,5,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|VereadorCD,5,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,6,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,6,Super premium,baixo,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD3|VereadorCD,6,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,1,Arroz,baixo,3,5
+venda/aluguel,EmpFert,AgAT3,1,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,2,Arroz,baixo,3,5
+venda/aluguel,EmpFert,AgAT3,2,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,3,Arroz,baixo,3,5
+venda/aluguel,EmpFert,AgAT3,3,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,4,Arroz,normal,3,5
+venda/aluguel,EmpFert,AgAT3,4,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,5,Arroz,normal,3,5
+venda/aluguel,EmpFert,AgAT3,5,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,6,Arroz,normal,3,5
+venda/aluguel,EmpFert,AgAT3,6,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,1,Hortalica,alto,3,5
+venda/aluguel,EmpFert,AgAT1,1,Premium,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,2,Hortalica,alto,3,5
+venda/aluguel,EmpFert,AgAT1,2,Super premium,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,3,Hortalica,alto,3,5
+venda/aluguel,EmpFert,AgAT1,3,Super premium,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,4,Soja,normal,3,5
+venda/aluguel,EmpFert,AgAT1,4,Super premium,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,5,Soja,normal,3,5
+venda/aluguel,EmpFert,AgAT1,5,Super premium,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,6,Soja,normal,3,5
+venda/aluguel,EmpFert,AgAT1,6,Super premium,normal,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,1,Soja,baixo,3,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,1,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|FiscalCD,1,Maquinas 1,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,2,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,2,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|FiscalCD,2,Maquinas 1,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,3,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,3,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|FiscalCD,3,Maquinas 2,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,4,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,4,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|FiscalCD,4,Maquinas 2,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,5,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,5,Super premium,baixo,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|FiscalCD,5,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,6,Soja,normal,3,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,6,Super premium,baixo,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD1|FiscalCD,6,Maquinas 3,alto,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,1,Arroz,normal,3,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,1,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,1,Maquinas 1,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,2,Arroz,normal,3,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,2,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,2,Maquinas 1,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,3,Arroz,normal,3,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,3,Super premium,normal,3,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT2|VereadorAT,3,Maquinas 1,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,4,Arroz,baixo,3,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,4,Super premium,normal,3,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,4,Comum,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,5,Arroz,baixo,3,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,5,Super premium,normal,3,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,5,Comum,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,6,Arroz,baixo,3,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,6,Super premium,normal,3,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,6,Comum,baixo,3,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,1,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,1,Super premium,alto,4,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,1,Comum,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,2,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,2,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,2,Comum,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,3,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,3,Super premium,alto,4,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,3,Comum,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,4,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,4,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,4,Comum,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,5,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,5,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,5,Comum,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT2|VereadorAT,6,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT2|VereadorAT,6,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgAT2|VereadorAT,6,Comum,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,1,Soja,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT3,1,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,2,Soja,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT3,2,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,3,Soja,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT3,3,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,4,Soja,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT3,4,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,5,Soja,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT3,5,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT3,6,Soja,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgAT3,6,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,1,Hortalica,alto,4,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,1,Super premium,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,2,Hortalica,alto,4,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,2,Super premium,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,3,Hortalica,alto,4,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,3,Super premium,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,4,Hortalica,alto,4,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,4,Super premium,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,5,Hortalica,alto,4,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,5,Super premium,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD1|FiscalCD,6,Hortalica,alto,4,5
+venda/aluguel,EmpFert,AgCD1|FiscalCD,6,Super premium,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,1,Arroz,normal,4,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,1,Super premium,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,1,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,2,Arroz,alto,4,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,2,Super premium,baixo,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,2,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,3,Arroz,alto,4,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,3,Super premium,normal,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,3,Maquinas 1,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,4,Hortalica,normal,4,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,4,Super premium,normal,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,4,Maquinas 2,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,5,Hortalica,normal,4,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,5,Super premium,normal,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,5,Maquinas 2,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD2|PrefeitoCD,6,Hortalica,normal,4,5
+venda/aluguel,EmpFert,AgCD2|PrefeitoCD,6,Super premium,normal,4,5
+venda/aluguel,EmpMaq|PrefeitoAT,AgCD2|PrefeitoCD,6,Maquinas 2,normal,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,1,Soja,normal,4,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,1,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgCD3|VereadorCD,1,Super premium,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,2,Soja,normal,4,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,2,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgCD3|VereadorCD,2,Super premium,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgCD3|VereadorCD,3,Soja,normal,4,5
+venda/aluguel,EmpFert,AgCD3|VereadorCD,3,Super premium,normal,4,5
+venda/aluguel,EmpAgro,AgCD3|VereadorCD,3,Super premium,baixo,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,1,Hortalica,baixo,4,5
+venda/aluguel,EmpFert,AgAT1,1,Super premium,alto,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,2,Hortalica,baixo,4,5
+venda/aluguel,EmpFert,AgAT1,2,Super premium,alto,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,3,Hortalica,baixo,4,5
+venda/aluguel,EmpFert,AgAT1,3,Super premium,alto,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,4,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT1,4,Super premium,alto,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,5,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT1,5,Super premium,alto,4,5
+venda/aluguel,EmpSem|FiscalAT,AgAT1,6,Soja,baixo,4,5
+venda/aluguel,EmpFert,AgAT1,6,Super premium,alto,4,5

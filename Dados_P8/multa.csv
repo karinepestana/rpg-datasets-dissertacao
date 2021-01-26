@@ -1,0 +1,8 @@
+acao,pessoa1,pessoa2,valor3,rodada,jogo
+multa,AgCD1|FiscalCD,EmpFert|PrefeitoCD,108.0,1,8
+multa,AgAT2|FiscalAT,AgAT1|VereadorAT,110.0,1,8
+multa,AgAT2|FiscalAT,AgAT1|VereadorAT,900.0,2,8
+multa,AgAT2|FiscalAT,AgAT1|VereadorAT,115.0,3,8
+multa,AgCD1|FiscalCD,AgCD1|FiscalCD,"9,16666666666666E+015",3,8
+multa,AgAT2|FiscalAT,AgAT1|VereadorAT,350.0,4,8
+multa,AgAT2|FiscalAT,EmpMaq|VereadorAT,252.0,5,8

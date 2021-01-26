@@ -1,0 +1,11 @@
+acao,pessoa1,tratamento,rodada,jogo
+tratamento,AgCD2|PrefeitoCD,Agua,1,7
+tratamento,AgCD2|PrefeitoCD,Lixo,1,7
+tratamento,AgCD2|PrefeitoCD,Esgoto,1,7
+tratamento,EmpSem|PrefeitoAT,Lixo,2,7
+tratamento,EmpSem|PrefeitoAT,Lixo,3,7
+tratamento,EmpSem|PrefeitoAT,Esgoto,4,7
+tratamento,AgCD2|PrefeitoCD,Lixo,4,7
+tratamento,EmpSem|PrefeitoAT,Agua,5,7
+tratamento,EmpSem|PrefeitoAT,Esgoto,5,7
+tratamento,AgCD2|PrefeitoCD,Esgoto,5,7
