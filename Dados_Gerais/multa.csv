@@ -20,10 +20,10 @@ multa,EmpFert|FiscalCD,AgCD3|PrefeitoCD,900.0,3,6
 multa,EmpSem|FiscalAT,EmpMaq,372.0,3,6
 multa,EmpFert|FiscalCD,EmpFert|FiscalCD,108.0,4,6
 multa,EmpSem|FiscalAT,EmpMaq,756.0,4,6
-multa,AgAT1|FiscalAT,AgAT2,3666666666666660,3,7
+multa,AgAT1|FiscalAT,AgAT2,366.66,3,7
 multa,AgAT1|FiscalAT,EmpMaq|VereadorAT,1212.0,3,7
 multa,AgCD1|FiscalCD,AgCD2|PrefeitoCD,250.0,3,7
-multa,AgCD1|FiscalCD,AgCD3,2933333333333330,3,7
+multa,AgCD1|FiscalCD,AgCD3,293.33,3,7
 multa,AgAT1|FiscalAT,EmpSem|PrefeitoAT,216.0,4,7
 multa,AgCD1|FiscalCD,AgCD2|PrefeitoCD,15.0,4,7
 multa,AgCD1|FiscalCD,AgCD2|PrefeitoCD,40.0,5,7
@@ -35,7 +35,7 @@ multa,AgCD1|FiscalCD,EmpFert|PrefeitoCD,108.0,1,8
 multa,AgAT2|FiscalAT,AgAT1|VereadorAT,110.0,1,8
 multa,AgAT2|FiscalAT,AgAT1|VereadorAT,900.0,2,8
 multa,AgAT2|FiscalAT,AgAT1|VereadorAT,115.0,3,8
-multa,AgCD1|FiscalCD,AgCD1|FiscalCD,"9,16666666666666E+015",3,8
+multa,AgCD1|FiscalCD,AgCD1|FiscalCD,91.66,3,8
 multa,AgAT2|FiscalAT,AgAT1|VereadorAT,350.0,4,8
 multa,AgAT2|FiscalAT,EmpMaq|VereadorAT,252.0,5,8
 multa,AgCD2|FiscalCD,AgCD2|FiscalCD,125.0,1,9
